@@ -1,5 +1,5 @@
 "use strict";
-var each = require('each'),
+var each = require('foreach'),
     slice = [].slice;
 
 // Extend a given object with all the properties in passed-in object(s).
